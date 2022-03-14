@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\csharpspeedrun.exe
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\csharpspeedrun.deps.json
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\csharpspeedrun.runtimeconfig.json
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\csharpspeedrun.dll
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\csharpspeedrun.pdb
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.AssemblyInfo.cs
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.dll
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\refint\csharpspeedrun.dll
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.pdb
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\csharpspeedrun.genruntimeconfig.cache
+C:\Users\kevin\Documents\C#\csharpspeedrun\obj\Debug\net6.0\ref\csharpspeedrun.dll

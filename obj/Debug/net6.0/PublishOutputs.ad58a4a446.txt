@@ -1,0 +1,5 @@
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\publish\csharpspeedrun.exe
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\publish\csharpspeedrun.dll
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\publish\csharpspeedrun.deps.json
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\publish\csharpspeedrun.runtimeconfig.json
+C:\Users\kevin\Documents\C#\csharpspeedrun\bin\Debug\net6.0\publish\csharpspeedrun.pdb
